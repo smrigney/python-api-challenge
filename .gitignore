@@ -1,6 +1,4 @@
-node_modules/
-bower_components/
-*.log
-
-build/
-dist/
+#adding config.py file 
+api_keys.py
+API_practice.ipynb
+random_numbers.ipynb
